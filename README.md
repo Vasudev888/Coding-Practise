@@ -5,6 +5,8 @@
 ### This repo contains DS and Algo and other coding problems
 - All topic-wise questions
 - Basic to Hard Level.
+- Assignment Questions and Most asked questions
+- Multiple Solutions are given for problems (eg. Some problems can be solved using different data-strutures, so multiple solutions are there, maps, sets, brute force, optimised code, etc)
 
 ## Big O Notation
 ### Data Structures in Big O Notation
