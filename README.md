@@ -2,7 +2,7 @@
 
 <img align="right" width="45%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="380">
 
-###This repo contains DS and Algo and other coding problems
+### This repo contains DS and Algo and other coding problems
 
 ## Big O Notation
 ### Data Structures in Big O Notation
