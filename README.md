@@ -1,7 +1,7 @@
 # Coding-Practise
 This repo contains DS and Algo and other coding problems
 
-<img align="right" width="45%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="380">
+<img align="right" width="45%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="480">
 
 <!-- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> -->
 
