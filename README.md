@@ -1,11 +1,9 @@
 # Coding-Practise
 This repo contains DS and Algo and other coding problems
 
-<!-- <img align="right" width="45%" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" height="380"> -->
+<img align="right" width="45%" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" height="380">
 
 <!-- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> -->
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 ## Big O Notation
 ### Data Structures in Big O Notation
