@@ -1,4 +1,4 @@
-# Coding-Practise - DSA (C++)<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23690EBE&title_bg=%23001EFF&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+# Coding-Practise - DSA (C++)<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVasudev888&count_bg=%23690EBE&title_bg=%23001EFF&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <img align="right" width="45%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="380">
 
